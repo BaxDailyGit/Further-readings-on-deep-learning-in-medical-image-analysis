@@ -1,4 +1,4 @@
-# Part 4. Further readings on deep learning in medical image analysis
+# Further readings on deep learning in medical image analysis
 ## (1) General reviews
 A Survey on Deep Learning in Medical Image Analysis : https://arxiv.org/abs/1702.05747
 
