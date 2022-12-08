@@ -1,4 +1,6 @@
 # Further readings on deep learning in medical image analysis
+김일현 전문의 선생님께서 남겨주셨다.
+
 ## (1) General reviews
 A Survey on Deep Learning in Medical Image Analysis : https://arxiv.org/abs/1702.05747
 
