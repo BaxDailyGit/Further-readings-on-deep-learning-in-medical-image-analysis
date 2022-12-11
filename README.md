@@ -4,7 +4,6 @@
 ## (1) General reviews
 A Survey on Deep Learning in Medical Image Analysis : https://arxiv.org/abs/1702.05747
 
-@Image Classification vs. Object Detection vs. Image Segmentation https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81, https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/learning-resources/image-segmentation-deeplab-neural-processing-sdk/classification-object-detection-segmentation
 
 A Review of Deep-Learning-Based Medical Image Segmentation Methods : https://www.mdpi.com/2071-1050/13/3/1224/htm
 
@@ -12,7 +11,6 @@ Deep Learning Techniques for Medical Image Segmentation: Achievements and Challe
 
 ​
 ## (2) Image augmentation
-@ what is Image augmentation? https://hoya012.github.io/blog/Image-Data-Augmentation-Overview/
 
 A survey on Image Data Augmentation for Deep Learning : https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
 Learning Loss for Test-Time Augmentation : https://arxiv.org/pdf/2010.11422.pdf
